@@ -14,7 +14,7 @@ This is a Streamlit application that allows users to ask questions about an uplo
 
 1. Clone the repository:
 
-        git clone https://github.com/your-username/image-question-answering.git
+        git clone https://github.com/your-username/Streamlit_Chat_with_Images.git
         
 2. Change to the project directory:
 
